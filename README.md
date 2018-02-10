@@ -12,7 +12,7 @@ Organizadores:
 - [Omar Vasquez](https://github.com/omar-vasquez)
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
-por favor abre un [issue](https://github.com/eventloop/codigo-de-conducta/issues).**
+por favor abre un [issue](https://github.com/Javascript-SLP/codigo-de-conducta/issues).**
 
 ### Licencia
 
